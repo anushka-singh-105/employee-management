@@ -2,3 +2,5 @@
 02 | Riya | QA
 03 | Vidushi | R&D 
 04 | Rahul | HR
+05 | Rohan | Manager
+05 | Rohan | Manager
