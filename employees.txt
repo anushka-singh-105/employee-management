@@ -1,0 +1,3 @@
+01 | Anushka | Data Analyst
+02 | Riya | QA
+03 | Vidushi | R&D 
